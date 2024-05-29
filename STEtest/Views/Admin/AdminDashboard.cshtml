@@ -1,0 +1,30 @@
+﻿@model IEnumerable<STEtest.Models.Student>
+@{
+    ViewBag.Title = "Admin Dashboard";
+}
+
+<h2>Admin Dashboard</h2>
+<p>Welcome, @User.Identity.Name!</p>
+<p>Total Students: @ViewBag.StudentCount</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Course ID</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Name</td>
+                <td>@student.CourseId</td>
+                <td>
+                    <a asp-action="EditStudent" asp-route-id="@student.StudentId">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

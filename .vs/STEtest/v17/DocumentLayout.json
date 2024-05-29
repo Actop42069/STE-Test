@@ -1,0 +1,523 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET\\STEtest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET\\STEtest\\STEtest\\Migrations\\20240529073458_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:STEtest\\Migrations\\20240529073458_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\views\\admin\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\views\\admin\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\viewmodels\\editstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\viewmodels\\editstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\authorization\\usertypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\authorization\\usertypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\authorization\\usertyperequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\authorization\\usertyperequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\views\\admin\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\views\\admin\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\views\\user\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\views\\user\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\stetest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\stetest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|d:\\asp.net\\stetest\\stetest\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DAA4D08-B205-41D6-881B-B24D6B05F71D}|STEtest\\STEtest.csproj|solutionrelative:stetest\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240529073458_initialmigration.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Migrations\\20240529073458_initialmigration.cs",
+              "RelativeDocumentMoniker": "STEtest\\Migrations\\20240529073458_initialmigration.cs",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Migrations\\20240529073458_initialmigration.cs",
+              "RelativeToolTip": "STEtest\\Migrations\\20240529073458_initialmigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:34:58.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Admin\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "STEtest\\Views\\Admin\\AdminDashboard.cshtml",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Admin\\AdminDashboard.cshtml",
+              "RelativeToolTip": "STEtest\\Views\\Admin\\AdminDashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T03:20:40.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "STEtest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "STEtest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAWwCkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T03:59:33.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "STEtest\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "STEtest\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T04:00:07.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserTypeHandler.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Authorization\\UserTypeHandler.cs",
+              "RelativeDocumentMoniker": "STEtest\\Authorization\\UserTypeHandler.cs",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Authorization\\UserTypeHandler.cs",
+              "RelativeToolTip": "STEtest\\Authorization\\UserTypeHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:19:38.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserTypeRequirement.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Authorization\\UserTypeRequirement.cs",
+              "RelativeDocumentMoniker": "STEtest\\Authorization\\UserTypeRequirement.cs",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Authorization\\UserTypeRequirement.cs",
+              "RelativeToolTip": "STEtest\\Authorization\\UserTypeRequirement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:19:15.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditStudentViewModel.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\ViewModels\\EditStudentViewModel.cs",
+              "RelativeDocumentMoniker": "STEtest\\ViewModels\\EditStudentViewModel.cs",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\ViewModels\\EditStudentViewModel.cs",
+              "RelativeToolTip": "STEtest\\ViewModels\\EditStudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:11:46.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditStudent.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Admin\\EditStudent.cshtml",
+              "RelativeDocumentMoniker": "STEtest\\Views\\Admin\\EditStudent.cshtml",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Admin\\EditStudent.cshtml",
+              "RelativeToolTip": "STEtest\\Views\\Admin\\EditStudent.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T03:21:29.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "STEtest\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "STEtest\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:20:16.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "STEtest\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "STEtest\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:20:43.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "STEtest\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "STEtest\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:22:18.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "STEtest\\Models\\Admin.cs",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Models\\Admin.cs",
+              "RelativeToolTip": "STEtest\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:24:59.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "STEtest\\Models\\UserProfile.cs",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Models\\UserProfile.cs",
+              "RelativeToolTip": "STEtest\\Models\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:21:02.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "STEtest\\Models\\Student.cs",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Models\\Student.cs",
+              "RelativeToolTip": "STEtest\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:24:52.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDashboard.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\User\\UserDashboard.cshtml",
+              "RelativeDocumentMoniker": "STEtest\\Views\\User\\UserDashboard.cshtml",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\User\\UserDashboard.cshtml",
+              "RelativeToolTip": "STEtest\\Views\\User\\UserDashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T03:22:26.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "STEtest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "STEtest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T07:24:53.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "STEtest\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "STEtest\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T07:24:57.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Program.cs",
+              "RelativeDocumentMoniker": "STEtest\\Program.cs",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Program.cs",
+              "RelativeToolTip": "STEtest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:14:50.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "STEtest\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Controllers\\UserController.cs",
+              "RelativeToolTip": "STEtest\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:24:34.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\appsettings.json",
+              "RelativeDocumentMoniker": "STEtest\\appsettings.json",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\appsettings.json",
+              "RelativeToolTip": "STEtest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T09:40:08.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "STEtest\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "STEtest\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:26:26.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "STEtest\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "STEtest\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:30:01.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "STEtest\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "STEtest\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T09:27:32.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "STEtest\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "STEtest\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:14:39.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "STEtest\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "STEtest\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T09:28:45.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "STEtest\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "STEtest\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T09:28:33.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "STEtest\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "STEtest\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T09:29:13.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "STEtest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "STEtest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T11:34:18.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "STEtest\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "STEtest\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T09:27:49.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "STEtest.csproj",
+              "DocumentMoniker": "D:\\ASP.NET\\STEtest\\STEtest\\STEtest.csproj",
+              "RelativeDocumentMoniker": "STEtest\\STEtest.csproj",
+              "ToolTip": "D:\\ASP.NET\\STEtest\\STEtest\\STEtest.csproj",
+              "RelativeToolTip": "STEtest\\STEtest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-28T09:25:02.089Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
